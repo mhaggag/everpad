@@ -284,8 +284,8 @@
     </message>
     <message>
         <location filename="everpad/pad/indicator.py" line="118"/>
-        <source>Last Sync: %s min ago</source>
-        <translation>Последняя синхронизация: %s минут назад</translation>
+        <source>Last Sync: 1 min ago</source>
+        <translation>Последняя синхронизация: 1 минут назад</translation>
     </message>
     <message>
         <location filename="everpad/pad/indicator.py" line="132"/>
