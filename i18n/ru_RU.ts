@@ -322,13 +322,13 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="everpad/pad/indicator.py" line="118"/>
-        <source>Last Sync: %s min ago</source>
+        <location filename="everpad/pad/indicator.py" line="120"/>
+        <source>Last Sync: %s mins ago</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="everpad/pad/indicator.py" line="120"/>
-        <source>Last Sync: %s mins ago</source>
+        <location filename="everpad/pad/indicator.py" line="118"/>
+        <source>Last Sync: 1 min ago</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

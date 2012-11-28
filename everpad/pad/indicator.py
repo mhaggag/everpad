@@ -115,7 +115,7 @@ class Indicator(QSystemTrayIcon):
                     if delta_sync == 0:
                         label = self.tr('Last Sync: Just now')
                     elif delta_sync == 1:
-                        label = self.tr('Last Sync: %s min ago') % delta_sync
+                        label = self.tr('Last Sync: 1 min ago')
                     else:
                         label = self.tr('Last Sync: %s mins ago') % delta_sync
                 self.menu.addAction(label, Slot()(self.app.provider.sync))
