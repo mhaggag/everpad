@@ -3,57 +3,57 @@
 <context>
     <name>ContentEdit</name>
     <message>
-        <location filename="everpad/pad/editor.py" line="395"/>
+        <location filename="everpad/pad/editor.py" line="399"/>
         <source>Paste as Plain Text</source>
         <translation>ألْصِقْ كنص صِرْف</translation>
     </message>
     <message>
-        <location filename="everpad/pad/editor.py" line="413"/>
+        <location filename="everpad/pad/editor.py" line="417"/>
         <source>Image Preferences</source>
         <translation>تفضيلات الصور</translation>
     </message>
     <message>
-        <location filename="everpad/pad/editor.py" line="449"/>
+        <location filename="everpad/pad/editor.py" line="453"/>
         <source>Everpad / Insert link</source>
         <translation>إِفَرْباد / أدْرِج رابطاً</translation>
     </message>
     <message>
-        <location filename="everpad/pad/editor.py" line="449"/>
+        <location filename="everpad/pad/editor.py" line="453"/>
         <source>Press link address</source>
         <translation>أدْخِل عنوان الرابط</translation>
     </message>
     <message>
-        <location filename="everpad/pad/editor.py" line="460"/>
+        <location filename="everpad/pad/editor.py" line="464"/>
         <source>Everpad / Change link</source>
         <translation>إفَرْباد / غَيِّر الرابط</translation>
     </message>
     <message>
-        <location filename="everpad/pad/editor.py" line="460"/>
+        <location filename="everpad/pad/editor.py" line="464"/>
         <source>Press new link address</source>
         <translation>أدْخِل عنوان الرابط الجديد</translation>
     </message>
     <message>
-        <location filename="everpad/pad/editor.py" line="499"/>
+        <location filename="everpad/pad/editor.py" line="503"/>
         <source>Image Files (*.png *.jpg *.bmp *.gif)</source>
         <translation>ملفات الصور (*.png *.jpg *.bmp *.gif)</translation>
     </message>
     <message>
-        <location filename="everpad/pad/editor.py" line="507"/>
+        <location filename="everpad/pad/editor.py" line="511"/>
         <source>Insert Checkbox</source>
         <translation>أدْرِج خانة تأشير</translation>
     </message>
     <message>
-        <location filename="everpad/pad/editor.py" line="511"/>
+        <location filename="everpad/pad/editor.py" line="515"/>
         <source>Insert Link</source>
         <translation>أدْرِج رابطاً</translation>
     </message>
     <message>
-        <location filename="everpad/pad/editor.py" line="515"/>
+        <location filename="everpad/pad/editor.py" line="519"/>
         <source>Insert Table</source>
         <translation>أدْرِج جدولاً</translation>
     </message>
     <message>
-        <location filename="everpad/pad/editor.py" line="519"/>
+        <location filename="everpad/pad/editor.py" line="523"/>
         <source>Insert Image</source>
         <translation>أدْرِج صورة</translation>
     </message>
@@ -61,54 +61,59 @@
 <context>
     <name>Dialog</name>
     <message>
-        <location filename="everpad/interface/management.py" line="87"/>
+        <location filename="everpad/interface/management.py" line="94"/>
         <source>Everpad / Settings and Management</source>
         <translation>إفَرْباد / الإعدادات و الإدارة</translation>
     </message>
     <message>
-        <location filename="everpad/interface/management.py" line="88"/>
+        <location filename="everpad/interface/management.py" line="95"/>
         <source>Authorisation</source>
         <translation>التفويض</translation>
     </message>
     <message>
-        <location filename="everpad/interface/management.py" line="89"/>
+        <location filename="everpad/interface/management.py" line="96"/>
         <source>Authorise</source>
         <translation>فَوِّض</translation>
     </message>
     <message>
-        <location filename="everpad/interface/management.py" line="90"/>
+        <location filename="everpad/interface/management.py" line="97"/>
         <source>Sync delay</source>
         <translation>مهلة المزامنة</translation>
     </message>
     <message>
-        <location filename="everpad/interface/management.py" line="91"/>
+        <location filename="everpad/interface/management.py" line="98"/>
         <source>Start with system</source>
         <translation>ابدأ مع النظام</translation>
     </message>
     <message>
-        <location filename="everpad/interface/management.py" line="92"/>
+        <location filename="everpad/interface/management.py" line="99"/>
         <source>Settings</source>
         <translation>إعدادات</translation>
     </message>
     <message>
-        <location filename="everpad/interface/management.py" line="93"/>
+        <location filename="everpad/interface/management.py" line="100"/>
         <source>Note font family</source>
         <translation>خط المُذَكِّرَة</translation>
     </message>
     <message>
-        <location filename="everpad/interface/management.py" line="94"/>
+        <location filename="everpad/interface/management.py" line="101"/>
         <source>Note font size</source>
         <translation>حجم خط المُذَكِّرَة</translation>
     </message>
     <message>
-        <location filename="everpad/interface/management.py" line="95"/>
+        <location filename="everpad/interface/management.py" line="102"/>
         <source>Black tray icon</source>
         <translation>استخدم أيقونة سوداء في منطقة التنبيهات</translation>
     </message>
     <message>
-        <location filename="everpad/interface/management.py" line="96"/>
+        <location filename="everpad/interface/management.py" line="104"/>
         <source>Apperance</source>
         <translation>المظهر</translation>
+    </message>
+    <message>
+        <location filename="everpad/interface/management.py" line="103"/>
+        <source>Launcher progress bar</source>
+        <translation>أظهر تقدم المزامنة في شريط يونيتي</translation>
     </message>
 </context>
 <context>
@@ -119,27 +124,27 @@
         <translation>احفظ</translation>
     </message>
     <message>
-        <location filename="everpad/pad/editor.py" line="935"/>
+        <location filename="everpad/pad/editor.py" line="946"/>
         <source>Close without saving</source>
         <translation>أغلق دون حفظ</translation>
     </message>
     <message>
-        <location filename="everpad/pad/editor.py" line="940"/>
+        <location filename="everpad/pad/editor.py" line="951"/>
         <source>Remove note</source>
         <translation>أزِل المُذَكِّرَة</translation>
     </message>
     <message>
-        <location filename="everpad/pad/editor.py" line="955"/>
+        <location filename="everpad/pad/editor.py" line="971"/>
         <source>Pin note</source>
         <translation>ثبِّت المُذَكِّرَة</translation>
     </message>
     <message>
-        <location filename="everpad/pad/editor.py" line="1010"/>
+        <location filename="everpad/pad/editor.py" line="1026"/>
         <source>You are trying to delete a note</source>
         <translation>أنت تحاول حذف مُذَكِّرَة</translation>
     </message>
     <message>
-        <location filename="everpad/pad/editor.py" line="1010"/>
+        <location filename="everpad/pad/editor.py" line="1026"/>
         <source>Are you sure want to delete this note?</source>
         <translation>هل أنت متأكد من أنك تريد حذف هذه المُذَكِّرَة؟</translation>
     </message>
@@ -219,82 +224,102 @@
         <translation>ابحث</translation>
     </message>
     <message>
-        <location filename="everpad/pad/editor.py" line="1001"/>
+        <location filename="everpad/pad/editor.py" line="1017"/>
         <source>Note &quot;%s&quot; saved!</source>
         <translation>حُفِظَتْ المُذَكِّرَة &quot;%s&quot;!</translation>
     </message>
     <message>
-        <location filename="everpad/pad/editor.py" line="1020"/>
+        <location filename="everpad/pad/editor.py" line="1036"/>
         <source>Note &quot;%s&quot; deleted!</source>
         <translation>حُذِفَتْ المُذَكِّرَة &quot;%s&quot;!</translation>
     </message>
     <message>
-        <location filename="everpad/pad/editor.py" line="989"/>
+        <location filename="everpad/pad/editor.py" line="1005"/>
         <source>Everpad / %s)</source>
         <translation>إِفَرْباد / %s</translation>
+    </message>
+    <message>
+        <location filename="everpad/pad/editor.py" line="956"/>
+        <source>Print note</source>
+        <translation>اطبع المُذَكِّرَة</translation>
     </message>
 </context>
 <context>
     <name>Indicator</name>
     <message>
-        <location filename="everpad/pad/indicator.py" line="67"/>
+        <location filename="everpad/pad/indicator.py" line="68"/>
         <source>API version missmatch, please restart</source>
         <translation>هناك تباين في إصدار واجهة التطبيقات (API). رجاءً أعِدْ تشغيل البرنامج.</translation>
     </message>
     <message>
-        <location filename="everpad/pad/indicator.py" line="71"/>
+        <location filename="everpad/pad/indicator.py" line="72"/>
         <source>Restart everpad</source>
         <translation>أعِدْ تشغيل إفَرْباد</translation>
     </message>
     <message>
-        <location filename="everpad/pad/indicator.py" line="87"/>
+        <location filename="everpad/pad/indicator.py" line="88"/>
         <source>All Notes</source>
         <translation>كل المُذَكِّرَات</translation>
     </message>
     <message>
-        <location filename="everpad/pad/indicator.py" line="96"/>
+        <location filename="everpad/pad/indicator.py" line="97"/>
         <source>Create Note</source>
         <translation>أنشئ مُذَكِّرَة</translation>
     </message>
     <message>
-        <location filename="everpad/pad/indicator.py" line="101"/>
+        <location filename="everpad/pad/indicator.py" line="102"/>
         <source>Wait, first sync in progress</source>
         <translation>انتظر ، المزامنة الأولى جارية.</translation>
     </message>
     <message>
-        <location filename="everpad/pad/indicator.py" line="101"/>
+        <location filename="everpad/pad/indicator.py" line="102"/>
         <source>Sync in progress</source>
         <translation>المزامنة جارية.</translation>
     </message>
     <message>
-        <location filename="everpad/pad/indicator.py" line="108"/>
+        <location filename="everpad/pad/indicator.py" line="109"/>
         <source>Please perform first sync</source>
         <translation>رجاءً قُمْ بإجراء أول مزامنة.</translation>
     </message>
     <message>
         <location filename="everpad/pad/indicator.py" line="110"/>
         <source>Last sync: %s</source>
-        <translation>آخر مزامنة: %s</translation>
+        <translation type="obsolete">آخر مزامنة: %s</translation>
     </message>
     <message>
-        <location filename="everpad/pad/indicator.py" line="112"/>
+        <location filename="everpad/pad/indicator.py" line="122"/>
         <source>Settings and Management</source>
         <translation>الإعدادات و الإدارة</translation>
     </message>
     <message>
-        <location filename="everpad/pad/indicator.py" line="114"/>
+        <location filename="everpad/pad/indicator.py" line="124"/>
         <source>Exit</source>
         <translation>اٌخْرٌج</translation>
     </message>
     <message>
-        <location filename="everpad/pad/indicator.py" line="132"/>
+        <location filename="everpad/pad/indicator.py" line="142"/>
         <source>New note</source>
         <translation>مُذَكِّرَة جديدة</translation>
     </message>
     <message>
-        <location filename="everpad/pad/indicator.py" line="132"/>
+        <location filename="everpad/pad/indicator.py" line="142"/>
         <source>New note content</source>
         <translation>محتوى المٌذَكِّرَة الجديدة</translation>
+    </message>
+    <message>
+        <location filename="everpad/pad/indicator.py" line="116"/>
+        <source>Last Sync: Just now</source>
+        <translation>آخر مزامنة: الآن</translation>
+    </message>
+    <message>
+        <location filename="everpad/pad/indicator.py" line="118"/>
+        <source>Last Sync: %s min ago</source>
+        <translation>آخر مزامنة: منذ دقيقة</translation>
+    </message>
+    <message>
+        <location filename="everpad/pad/indicator.py" line="120"/>
+        <source>Last Sync: %s mins ago</source>
+        <translation>آخر مزامنة: منذ %s دقيقة/دقائق</translation>
     </message>
 </context>
 <context>
@@ -433,12 +458,12 @@
         <translation>يدوي</translation>
     </message>
     <message>
-        <location filename="everpad/pad/management.py" line="115"/>
+        <location filename="everpad/pad/management.py" line="123"/>
         <source>Remove Authorisation</source>
         <translation>أَزِلْ التفويض</translation>
     </message>
     <message>
-        <location filename="everpad/pad/management.py" line="117"/>
+        <location filename="everpad/pad/management.py" line="125"/>
         <source>Authorise</source>
         <translation>فَوِّضْ</translation>
     </message>
@@ -446,7 +471,7 @@
 <context>
     <name>QApplication</name>
     <message>
-        <location filename="everpad/pad/indicator.py" line="179"/>
+        <location filename="everpad/pad/indicator.py" line="189"/>
         <source>QT_LAYOUT_DIRECTION</source>
         <translation>RTL</translation>
     </message>
@@ -454,49 +479,49 @@
 <context>
     <name>ResourceEdit</name>
     <message>
-        <location filename="everpad/pad/editor.py" line="829"/>
+        <location filename="everpad/pad/editor.py" line="840"/>
         <source>Are you sure want to delete this resource?</source>
         <translation>هل أنت متأكد من أنك تريد مسح هذا المورد؟</translation>
     </message>
     <message>
-        <location filename="everpad/pad/editor.py" line="745"/>
+        <location filename="everpad/pad/editor.py" line="756"/>
         <source>show</source>
         <translation>أظْهِر</translation>
     </message>
     <message>
-        <location filename="everpad/pad/editor.py" line="745"/>
+        <location filename="everpad/pad/editor.py" line="756"/>
         <source>hide</source>
         <translation>أخْف</translation>
     </message>
     <message>
-        <location filename="everpad/pad/editor.py" line="805"/>
+        <location filename="everpad/pad/editor.py" line="816"/>
         <source>Put to Content</source>
         <translation>أضِفْ للمحتوى</translation>
     </message>
     <message>
-        <location filename="everpad/pad/editor.py" line="811"/>
+        <location filename="everpad/pad/editor.py" line="822"/>
         <source>Remove Resource</source>
         <translation>أزِلْ المورد</translation>
     </message>
     <message>
-        <location filename="everpad/pad/editor.py" line="816"/>
+        <location filename="everpad/pad/editor.py" line="827"/>
         <source>Save As</source>
         <translation>احفظ باسم</translation>
     </message>
     <message>
-        <location filename="everpad/pad/editor.py" line="745"/>
+        <location filename="everpad/pad/editor.py" line="756"/>
         <source>add another</source>
         <translation>أضِفْ ملفا آخر</translation>
     </message>
     <message>
-        <location filename="everpad/pad/editor.py" line="745"/>
+        <location filename="everpad/pad/editor.py" line="756"/>
         <source>%d attached files: &lt;a href=&quot;show&quot;&gt;%s&lt;/a&gt; / &lt;a href=&quot;add&quot;&gt;%s&lt;/a&gt;</source>
         <translation>%d ملفات ملحقة: &lt;a href=&quot;show&quot;&gt;%s&lt;/a&gt; / &lt;a href=&quot;add&quot;&gt;%s&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="everpad/pad/editor.py" line="829"/>
+        <location filename="everpad/pad/editor.py" line="840"/>
         <source>Delete Resource</source>
-        <translation type="unfinished">امْسح مورداً</translation>
+        <translation>امْسح مورداً</translation>
     </message>
 </context>
 </TS>
