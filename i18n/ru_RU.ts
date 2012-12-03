@@ -327,6 +327,21 @@
         <source>Restart everpad</source>
         <translation>Перезапустить everpad</translation>
     </message>
+    <message>
+        <location filename="everpad/pad/indicator.py" line="116"/>
+        <source>Last Sync: Just now</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="everpad/pad/indicator.py" line="118"/>
+        <source>Last Sync: %s min ago</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="everpad/pad/indicator.py" line="120"/>
+        <source>Last Sync: %s mins ago</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>List</name>
