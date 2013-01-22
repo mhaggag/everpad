@@ -318,12 +318,9 @@ def main():
             action_performed = True
         if args.attach:
             pad.create_wit_attach(args.attach)
-            action_performed = True
-        if args.all_notes:
+        if args.all_notes or len(sys.argv) <= 1:
             pad.all_notes()
-            action_performed = True
-        if not action_performed:
-            print 'everpad already runned'
+        
         sys.exit(0)
 
 if __name__ == '__main__':
